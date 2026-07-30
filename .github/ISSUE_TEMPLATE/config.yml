@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Full contribution guide
+    url: https://github.com/AlexBTC420/order-hail-mary/blob/main/CONTRIBUTING.md
+    about: How the living document evolves, PR workflow, editorial gates, and field reports
+  - name: Changelog
+    url: https://github.com/AlexBTC420/order-hail-mary/blob/main/CHANGELOG.md
+    about: History of material changes to the canon

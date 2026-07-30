@@ -1,0 +1,47 @@
+name: Critique or correction
+description: Challenge a claim, request a citation, or propose a factual correction
+title: "Critique: "
+labels: ["critique"]
+body:
+  - type: dropdown
+    id: document
+    attributes:
+      label: Which document?
+      options:
+        - Document I — Decentralized Sovereignty
+        - Document II — Order Hail Mary
+        - README / meta
+        - New document proposal
+    validations:
+      required: true
+  - type: input
+    id: section
+    attributes:
+      label: Section or rough location
+      placeholder: "e.g. Part I — Threat Model, Protocol SIGNAL"
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is wrong, missing, or overclaimed?
+      description: Be specific. Quote the text if you can.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed change (optional)
+      description: Draft wording is extremely helpful.
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence / references
+      description: Papers, RFCs, historical events, standards, data.
+  - type: checkboxes
+    id: integrity
+    attributes:
+      label: Integrity check
+      options:
+        - label: This does not promise financial returns or promote a token sale
+          required: true
+        - label: This aims to improve accuracy, independent failure domains, or honesty
+          required: true

@@ -4,18 +4,43 @@
 
 **An open research canon on digital sovereignty, independent failure domains, and continuity systems that do not share fate with the grids they back up.**
 
+> **Living document.** What you are reading is versioned, public, and incomplete on purpose.  
+> Argue with it. Cite it. Correct it. Fork it if we fail you.  
+> → **[How to contribute](CONTRIBUTING.md)** · **[Changelog](CHANGELOG.md)** · **[Open an issue](https://github.com/AlexBTC420/order-hail-mary/issues/new/choose)**
+
 ---
 
 ## What This Repository Is
 
 This repository publishes the **Decentralized Sovereignty** canon: two living documents that treat decentralization not as a market narrative, but as **systems engineering for civilizational resilience**.
 
-| Document | Role | Path |
-|---|---|---|
-| **I — Decentralized Sovereignty** | Manifesto: diagnosis, ideals, pillars, covenant | [`docs/01-decentralized-sovereignty.md`](docs/01-decentralized-sovereignty.md) |
-| **II — Order Hail Mary** | Failsafe doctrine: threat model, six protocols, standing orders | [`docs/02-order-hail-mary.md`](docs/02-order-hail-mary.md) · [PDF](docs/02-order-hail-mary.pdf) |
+| Document | Role | Path | Status |
+|---|---|---|---|
+| **I — Decentralized Sovereignty** | Manifesto: diagnosis, ideals, pillars, covenant | [`docs/01-decentralized-sovereignty.md`](docs/01-decentralized-sovereignty.md) | Published (living) |
+| **II — Order Hail Mary** | Failsafe doctrine: threat model, six protocols, standing orders | [`docs/02-order-hail-mary.md`](docs/02-order-hail-mary.md) · [PDF](docs/02-order-hail-mary.pdf) | Published (living) |
 
-They are meant to be read, argued with, forked, audited, and improved in public.
+They are meant to be read, argued with, forked, audited, and improved in public. **Markdown on `main` is authoritative**; PDFs may lag.
+
+---
+
+## A Living Document (How This Stays Alive)
+
+These texts are not scripture. They are a **public standard under continuous stress-test**.
+
+| Mechanism | Purpose |
+|---|---|
+| **Git history** | Every material edit is visible; no silent rewrites of commitments |
+| **[CHANGELOG.md](CHANGELOG.md)** | Human-readable record of what changed and why |
+| **[Issues](https://github.com/AlexBTC420/order-hail-mary/issues)** | Critique, citations, field reports, process debate |
+| **Pull requests** | Proposed text that must pass integrity gates before merge |
+| **[CONTRIBUTING.md](CONTRIBUTING.md)** | Full workflow, editorial gates, field-report format |
+| **Forkability** | If maintainers go wrong, the community can leave with the text |
+
+```text
+idea / critique  →  issue  →  discussion  →  pull request  →  changelog  →  main (current canon)
+```
+
+**Your reciprocal duty:** verify. Question every claim, including ours. That is not a threat to this project — it is the design.
 
 ---
 
@@ -160,33 +185,88 @@ Drawn from Document I, restated here so the repository front door is unambiguous
 
 ---
 
-## Contributing
+## How to Contribute
 
-Argue in issues. Propose edits via pull request. Prefer:
+Full instructions: **[CONTRIBUTING.md](CONTRIBUTING.md)**.
 
-- clearer threat models with citations,
-- protocol designs that survive independent-failure-domain analysis,
-- offline-first implementations,
-- honest negative results.
+You do not need to be a protocol engineer. Pick a depth and ship one honest improvement.
 
-Reject contributions that sell tokens, promise returns, or blur the line between infrastructure and casino.
+### Minimum viable contribution (10 minutes)
+
+1. Open a **[critique issue](https://github.com/AlexBTC420/order-hail-mary/issues/new?template=critique.yml)** with one precise objection, missing citation, or overclaim.
+2. Or open a **[field report](https://github.com/AlexBTC420/order-hail-mary/issues/new?template=field_report.yml)** for something you actually ran (mesh, self-custody, offline archive, local model, local council rules).
+3. Or fix one typo / one weak sentence via pull request and add a line under **Unreleased** in [CHANGELOG.md](CHANGELOG.md).
+
+### Contribution paths
+
+| Path | What you do |
+|---|---|
+| **Read & argue** | Issue with a clear objection or question |
+| **Correct the record** | Facts, citations, soften overclaims |
+| **Strengthen a protocol** | Design notes for SIGNAL → COUNCIL that survive independent-failure-domain analysis |
+| **Field report** | Real practice: what worked, what failed, suggested text change |
+| **Implementation** | Offline-first open-source tools that embody a protocol |
+| **Translate / mirror** | `docs/i18n/` or public offline mirrors (no investment reframing) |
+| **New canon draft** | Propose Document III+ via issue, then draft under `docs/drafts/` |
+
+### Hard gates (automatic reject)
+
+- Profit promises, token sales, yield narratives
+- Hidden allocations or extraction dressed as community
+- Closed control planes sold as decentralization
+- Silent weakening of Document I’s covenant
+- Lawless-violence framing (this is civil continuity, not cosplay)
+
+### Prefer
+
+- Clearer threat models with citations  
+- Protocol designs that survive independent-failure-domain analysis  
+- Offline-first implementations  
+- Honest negative results  
+
+### Quick PR workflow
+
+```bash
+git clone https://github.com/AlexBTC420/order-hail-mary.git
+cd order-hail-mary
+git checkout -b fix/your-change
+# edit docs/*.md  →  update CHANGELOG.md [Unreleased]
+git commit -am "docs: short imperative summary"
+# push fork and open PR against main
+```
+
+Maintainers review against the gates in [CONTRIBUTING.md](CONTRIBUTING.md). Small, reviewable PRs beat messianic rewrites.
 
 ---
 
 ## License
 
-Unless otherwise noted, documents in this repository are published for public discussion under the spirit of **open critique and forkability**.
+Documents are licensed under **[CC BY 4.0](LICENSE)** for open critique, adaptation, and redistribution **with attribution**.
 
-If you redistribute, preserve attribution to the Decentralized Sovereignty canon and do not reframe these texts as investment solicitations.
+Do **not** reframe these texts as investment solicitations, token sales, or guaranteed-return products. That use is outside the spirit of the license notice and will be publicly corrected.
 
 ---
 
 ## Canon Status
 
-| # | Title | Status |
-|---|---|---|
-| I | Decentralized Sovereignty | Published (living) |
-| II | Order Hail Mary | Published (living) |
+| # | Title | Status | Last material cut |
+|---|---|---|---|
+| I | Decentralized Sovereignty | Published (living) | [0.1.0](CHANGELOG.md) |
+| II | Order Hail Mary | Published (living) | [0.1.0](CHANGELOG.md) |
+
+See [CHANGELOG.md](CHANGELOG.md) for the full history. Unreleased work lands on `main` after review.
+
+---
+
+## Start Here
+
+| If you want to… | Go here |
+|---|---|
+| Understand the ideals | [Document I](docs/01-decentralized-sovereignty.md) |
+| Run the standing orders | [Document II](docs/02-order-hail-mary.md) |
+| Improve the text | [CONTRIBUTING.md](CONTRIBUTING.md) |
+| See what changed | [CHANGELOG.md](CHANGELOG.md) |
+| File a critique | [New issue](https://github.com/AlexBTC420/order-hail-mary/issues/new/choose) |
 
 *Sovereignty is not granted. It is built — together, in the open, or not at all.*
 

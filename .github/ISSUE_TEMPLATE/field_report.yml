@@ -1,0 +1,62 @@
+name: Field report
+description: Report real-world practice of SIGNAL, LEDGER, NAME, LIBRARY, MIND, or COUNCIL
+title: "Field report: "
+labels: ["field-report"]
+body:
+  - type: dropdown
+    id: protocol
+    attributes:
+      label: Primary protocol
+      multiple: true
+      options:
+        - SIGNAL (communications)
+        - LEDGER (value / self-custody)
+        - NAME (identity)
+        - LIBRARY (offline knowledge)
+        - MIND (local AI / compute)
+        - COUNCIL (governance continuity)
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: Scale, duration, urban/rural, constraints. Avoid doxxing.
+      placeholder: "e.g. 12-node urban mesh, 4 months, intermittent power"
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What you did (standing orders actually executed)
+    validations:
+      required: true
+  - type: textarea
+    id: worked
+    attributes:
+      label: What worked
+    validations:
+      required: true
+  - type: textarea
+    id: failed
+    attributes:
+      label: What failed or was harder than the text suggests
+    validations:
+      required: true
+  - type: textarea
+    id: text_change
+    attributes:
+      label: Suggested text change (optional)
+      description: Quote from docs/ and propose a revision.
+  - type: textarea
+    id: artifacts
+    attributes:
+      label: Open artifacts
+      description: Links to code, configs, pack manifests. No private keys. No personal data dumps.
+  - type: checkboxes
+    id: integrity
+    attributes:
+      label: Integrity check
+      options:
+        - label: This is not a product pitch, token sale, or investment solicitation
+          required: true

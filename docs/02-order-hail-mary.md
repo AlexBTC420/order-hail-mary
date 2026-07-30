@@ -150,6 +150,14 @@ You decide.
 
 *Document II of the Decentralized Sovereignty canon. A living doctrine — argue with it, fork it, improve it, mirror it.*
 
+**This text lives in a public repository.** To propose a change, file a field report, or strengthen a protocol, follow:
+
+- [How to contribute](../CONTRIBUTING.md)
+- [Changelog](../CHANGELOG.md)
+- [Open an issue](https://github.com/AlexBTC420/order-hail-mary/issues/new/choose)
+
+Markdown on `main` is authoritative (the PDF may lag). Standing orders improve when practitioners report what worked and what failed.
+
 **Keywords:** Order Hail Mary, Decentralized Sovereignty, civilizational resilience, continuity of government, decentralization, disaster preparedness, self-custody, mesh networks, local AI, open source, knowledge preservation, digital sovereignty, national security, Web3, collapse preparedness
 
 #OrderHailMary #DecentralizedSovereignty #Resilience #Decentralization #SelfCustody #OpenSource #Preparedness #Web3
