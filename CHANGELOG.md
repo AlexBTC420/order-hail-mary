@@ -11,6 +11,7 @@ The format is inspired by [Keep a Changelog](https://keepachangelog.com/).
 
 ### Added
 
+- **Document IV — Academic Monograph** (`docs/04-academic-thesis-civil-continuity.md`): doctoral-style working paper formalizing independent failure domains and Civil Continuity Infrastructure; literature review (Perrow, Rinaldi, Lamport, Oughton, Narayanan, FEMA/CISA/NIST, Ostrom); propositions; six-protocol academic mapping; evaluation metrics; Harvard/Chicago-style bibliography.
 - Living-document process: full [CONTRIBUTING.md](CONTRIBUTING.md) with workflows, integrity gates, field-report format, translation/mirror path, and new-document proposal process.
 - GitHub issue templates (critique, field report) and pull request template.
 - `docs/drafts/` for non-canon proposals.

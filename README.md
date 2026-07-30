@@ -19,10 +19,13 @@ This repository publishes the **Decentralized Sovereignty** canon: two living do
 | **I — Decentralized Sovereignty** | Manifesto: diagnosis, ideals, pillars, covenant | [`docs/01-decentralized-sovereignty.md`](docs/01-decentralized-sovereignty.md) | Published (living) |
 | **II — Order Hail Mary** | Failsafe doctrine: threat model, six protocols, standing orders | [`docs/02-order-hail-mary.md`](docs/02-order-hail-mary.md) · [PDF](docs/02-order-hail-mary.pdf) | Published (living) |
 | **III — U.S. Federal Legislative Strategy** | How to pursue federal recognition, pilots, authorization, and appropriations without a crypto-scam bill | [`docs/03-us-federal-legislative-strategy.md`](docs/03-us-federal-legislative-strategy.md) · [Hill one-pager](docs/legislative/hill-one-pager.md) | Published (living) |
+| **IV — Academic Monograph** | Doctoral-style research framework: independent failure domains, CCI theory, literature review, evaluation methods, bibliography | [`docs/04-academic-thesis-civil-continuity.md`](docs/04-academic-thesis-civil-continuity.md) | Published (living) |
 
 They are meant to be read, argued with, forked, audited, and improved in public. **Markdown on `main` is authoritative**; PDFs may lag.
 
 **Policy note:** Document III is a **public strategy thesis**, not legal advice and not a promise of enactment. It maps Order Hail Mary onto real U.S. instruments (CISA/FEMA/NIST, NDAA, grants, studies)—as **Civil Continuity Infrastructure** complementary to Continuity of Government.
+
+**Research note:** Document IV is a **working academic monograph** (definitions, propositions, literature synthesis, evaluation design). It is living and open to peer critique; it is not a conferred doctoral degree certificate.
 
 ---
 
@@ -152,7 +155,8 @@ Claims in these documents are **design theses and standing practices**, not prod
 2. Continue with **[Order Hail Mary](docs/02-order-hail-mary.md)** — threat model, independent failure domains, six protocols, address to nations.
 3. For U.S. law and policy path, read **[Federal Legislative Strategy](docs/03-us-federal-legislative-strategy.md)** — phased plan from coalition → study/pilots → authorization → appropriations → rights clarity.
 4. Staff leave-behind: **[Hill one-pager](docs/legislative/hill-one-pager.md)**. Living event log: **[legislative tracker](docs/legislative/tracker.md)**.
-5. Mirror the PDF if you want a printable distribution copy of Document II: [`docs/02-order-hail-mary.pdf`](docs/02-order-hail-mary.pdf).
+5. For research-grade grounding, read **[Document IV — Academic Monograph](docs/04-academic-thesis-civil-continuity.md)** (definitions, propositions, literature, evaluation).
+6. Mirror the PDF if you want a printable distribution copy of Document II: [`docs/02-order-hail-mary.pdf`](docs/02-order-hail-mary.pdf).
 
 ---
 
@@ -285,6 +289,7 @@ Do **not** reframe these texts as investment solicitations, token sales, or guar
 | I | Decentralized Sovereignty | Published (living) | [0.1.0](CHANGELOG.md) |
 | II | Order Hail Mary | Published (living) | [0.1.0](CHANGELOG.md) |
 | III | U.S. Federal Legislative Strategy | Published (living) | See [Unreleased](CHANGELOG.md) |
+| IV | Academic Monograph (Civil Continuity) | Published (living) | See [Unreleased](CHANGELOG.md) |
 
 See [CHANGELOG.md](CHANGELOG.md) for the full history. Unreleased work lands on `main` after review.
 
