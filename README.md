@@ -18,8 +18,11 @@ This repository publishes the **Decentralized Sovereignty** canon: two living do
 |---|---|---|---|
 | **I — Decentralized Sovereignty** | Manifesto: diagnosis, ideals, pillars, covenant | [`docs/01-decentralized-sovereignty.md`](docs/01-decentralized-sovereignty.md) | Published (living) |
 | **II — Order Hail Mary** | Failsafe doctrine: threat model, six protocols, standing orders | [`docs/02-order-hail-mary.md`](docs/02-order-hail-mary.md) · [PDF](docs/02-order-hail-mary.pdf) | Published (living) |
+| **III — U.S. Federal Legislative Strategy** | How to pursue federal recognition, pilots, authorization, and appropriations without a crypto-scam bill | [`docs/03-us-federal-legislative-strategy.md`](docs/03-us-federal-legislative-strategy.md) · [Hill one-pager](docs/legislative/hill-one-pager.md) | Published (living) |
 
 They are meant to be read, argued with, forked, audited, and improved in public. **Markdown on `main` is authoritative**; PDFs may lag.
+
+**Policy note:** Document III is a **public strategy thesis**, not legal advice and not a promise of enactment. It maps Order Hail Mary onto real U.S. instruments (CISA/FEMA/NIST, NDAA, grants, studies)—as **Civil Continuity Infrastructure** complementary to Continuity of Government.
 
 ---
 
@@ -147,7 +150,9 @@ Claims in these documents are **design theses and standing practices**, not prod
 
 1. Start with **[Decentralized Sovereignty](docs/01-decentralized-sovereignty.md)** — ideals, diagnosis of casino dynamics, seven pillars, covenant.
 2. Continue with **[Order Hail Mary](docs/02-order-hail-mary.md)** — threat model, independent failure domains, six protocols, address to nations.
-3. Mirror the PDF if you want a printable distribution copy: [`docs/02-order-hail-mary.pdf`](docs/02-order-hail-mary.pdf).
+3. For U.S. law and policy path, read **[Federal Legislative Strategy](docs/03-us-federal-legislative-strategy.md)** — phased plan from coalition → study/pilots → authorization → appropriations → rights clarity.
+4. Staff leave-behind: **[Hill one-pager](docs/legislative/hill-one-pager.md)**. Living event log: **[legislative tracker](docs/legislative/tracker.md)**.
+5. Mirror the PDF if you want a printable distribution copy of Document II: [`docs/02-order-hail-mary.pdf`](docs/02-order-hail-mary.pdf).
 
 ---
 
@@ -171,6 +176,7 @@ Drawn from Document I, restated here so the repository front door is unambiguous
 - **Citizens** who want practical standing orders (hours, not heroics).
 - **Engineers** building offline-first, open, boring, unkillable systems.
 - **Policymakers & resilience planners** who understand that continuity of government and continuity of civilization are complementary, not rivals.
+- **Legislative advocates** pursuing study/pilot/authorization paths without turning the doctrine into a token bill ([Document III](docs/03-us-federal-legislative-strategy.md)).
 - **Builders burned by casino culture** who still believe permissionless infrastructure was never the joke — only what grew in the ruins of the point.
 
 ---
@@ -253,6 +259,7 @@ Do **not** reframe these texts as investment solicitations, token sales, or guar
 |---|---|---|---|
 | I | Decentralized Sovereignty | Published (living) | [0.1.0](CHANGELOG.md) |
 | II | Order Hail Mary | Published (living) | [0.1.0](CHANGELOG.md) |
+| III | U.S. Federal Legislative Strategy | Published (living) | See [Unreleased](CHANGELOG.md) |
 
 See [CHANGELOG.md](CHANGELOG.md) for the full history. Unreleased work lands on `main` after review.
 
@@ -264,6 +271,8 @@ See [CHANGELOG.md](CHANGELOG.md) for the full history. Unreleased work lands on 
 |---|---|
 | Understand the ideals | [Document I](docs/01-decentralized-sovereignty.md) |
 | Run the standing orders | [Document II](docs/02-order-hail-mary.md) |
+| Pursue U.S. federal legislation | [Document III](docs/03-us-federal-legislative-strategy.md) |
+| Brief a Hill office | [Hill one-pager](docs/legislative/hill-one-pager.md) |
 | Improve the text | [CONTRIBUTING.md](CONTRIBUTING.md) |
 | See what changed | [CHANGELOG.md](CHANGELOG.md) |
 | File a critique | [New issue](https://github.com/AlexBTC420/order-hail-mary/issues/new/choose) |

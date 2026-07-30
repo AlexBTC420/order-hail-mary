@@ -26,6 +26,7 @@ You do not need to be a protocol engineer. Different kinds of work keep the docu
 | **Correct the record** | Domain experts | Fix facts, add citations, flag overclaims | Issue or PR |
 | **Strengthen a protocol** | Builders / operators | Propose design notes, threat models, or standing-order refinements for SIGNAL–COUNCIL | PR to `docs/` |
 | **Field report** | Practitioners | Document real mesh, self-custody, offline archive, local AI, or council practice | Issue with label `field-report` |
+| **Legislative / policy** | Policy, legal, EM, Hill-adjacent | Update Document III, tracker rows, bill cites, state pilot notes—**no token lobbying cosplay** | PR to `docs/03-…` / `docs/legislative/` |
 | **Translate / mirror** | Communities | Translate or host offline copies; link back here | Issue + mirror URL |
 | **Implementation** | Engineers | Ship offline-first, open-source tools that embody a protocol | PR or linked repo |
 | **Editorial clarity** | Writers | Tighten language without changing meaning; fix typos | PR |

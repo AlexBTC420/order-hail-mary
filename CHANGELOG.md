@@ -16,6 +16,8 @@ The format is inspired by [Keep a Changelog](https://keepachangelog.com/).
 - `docs/drafts/` for non-canon proposals.
 - Contribution footers on Documents I and II linking to process and changelog.
 - Expanded README sections: living-document mechanics, contribution paths, hard gates, quick PR workflow.
+- **Document III — U.S. Federal Legislative Strategy** (`docs/03-us-federal-legislative-strategy.md`): phased plan (coalition → study/pilots → authorization → appropriations → rights clarity → reauth), committee map, model legislative concepts, risk register, 90-day checklist; framed as Civil Continuity Infrastructure complementary to COG—not a crypto bill.
+- Legislative kit: Hill one-pager, tracker, `docs/legislative/` index.
 
 ---
 
