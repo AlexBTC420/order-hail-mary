@@ -302,6 +302,7 @@ See [CHANGELOG.md](CHANGELOG.md) for the full history. Unreleased work lands on 
 | Understand the ideals | [Document I](docs/01-decentralized-sovereignty.md) |
 | Run the standing orders | [Document II](docs/02-order-hail-mary.md) |
 | Pursue U.S. federal legislation | [Document III](docs/03-us-federal-legislative-strategy.md) |
+| Read the research-grade thesis | [Document IV](docs/04-academic-thesis-civil-continuity.md) |
 | Brief a Hill office | [Hill one-pager](docs/legislative/hill-one-pager.md) |
 | Improve the text | [CONTRIBUTING.md](CONTRIBUTING.md) |
 | See what changed | [CHANGELOG.md](CHANGELOG.md) |
