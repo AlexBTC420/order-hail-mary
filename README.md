@@ -6,7 +6,8 @@
 
 > **Living document.** What you are reading is versioned, public, and incomplete on purpose.  
 > Argue with it. Cite it. Correct it. Fork it if we fail you.  
-> → **[How to contribute](CONTRIBUTING.md)** · **[Changelog](CHANGELOG.md)** · **[Open an issue](https://github.com/AlexBTC420/order-hail-mary/issues/new/choose)**
+> → **[How to contribute](CONTRIBUTING.md)** · **[Changelog](CHANGELOG.md)** · **[Open an issue](https://github.com/AlexBTC420/order-hail-mary/issues/new/choose)**  
+> → **Public portal:** [https://woke.social/HAILMARY](https://woke.social/HAILMARY)
 
 ---
 
