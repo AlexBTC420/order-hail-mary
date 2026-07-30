@@ -18,6 +18,11 @@ The format is inspired by [Keep a Changelog](https://keepachangelog.com/).
 - Expanded README sections: living-document mechanics, contribution paths, hard gates, quick PR workflow.
 - **Document III — U.S. Federal Legislative Strategy** (`docs/03-us-federal-legislative-strategy.md`): phased plan (coalition → study/pilots → authorization → appropriations → rights clarity → reauth), committee map, model legislative concepts, risk register, 90-day checklist; framed as Civil Continuity Infrastructure complementary to COG—not a crypto bill.
 - Legislative kit: Hill one-pager, tracker, `docs/legislative/` index.
+- `COMMERCIAL_LICENSE.md` and `NOTICE` for paid government/commercial licensing path.
+
+### Changed
+
+- **License model:** replaced CC BY 4.0 (free commercial/government use) with a **strict dual license** — Section A limited non-commercial public rights; Section B paid Commercial & Government License for operational/commercial use. Not OSI open source (by design). See `LICENSE`.
 
 ---
 
