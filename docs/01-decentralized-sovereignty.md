@@ -222,13 +222,14 @@ You decide.
 
 *Decentralized Sovereignty is a living document. Argue with it, fork it, improve it.*
 
-**This text lives in a public repository.** To propose a change, open an issue or pull request and follow the contribution guide:
+**This text lives in a public repository under a dual license (not free for government operational use).**
 
+- [LICENSE](../LICENSE) · [Commercial & Government licensing](../COMMERCIAL_LICENSE.md)
 - [How to contribute](../CONTRIBUTING.md)
 - [Changelog](../CHANGELOG.md)
 - [Open an issue](https://github.com/AlexBTC420/order-hail-mary/issues/new/choose)
 
-Markdown on `main` is authoritative. Every material edit is recorded. If maintainers fail you, fork — that is the design.
+Markdown on `main` is authoritative. Reading and non-commercial critique are free. Commercial use and government operational adoption require a paid Section B license.
 
 **Keywords:** decentralized sovereignty, decentralization, Web3, crypto, blockchain, self-custody, digital sovereignty, open source, DePIN, decentralized AI, creator economy, DAO governance, zero-knowledge privacy, data ownership, Solana, WokeSocial, Woke Network, Woke AI
 

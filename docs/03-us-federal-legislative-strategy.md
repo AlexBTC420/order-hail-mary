@@ -8,7 +8,8 @@ Document III of the Decentralized Sovereignty canon.
 Companion to [Document I](01-decentralized-sovereignty.md) and [Document II](02-order-hail-mary.md).
 
 > **Status:** Published (living) — strategy thesis, not a guarantee of enactment.  
-> **This is not legal advice.** It is a public policy roadmap. Laws change; counsel and current bill text control.
+> **This is not legal advice.** It is a public policy roadmap. Laws change; counsel and current bill text control.  
+> **Copyright:** Dual-licensed — free to read; **U.S. Government operational use requires a paid Section B license** ([LICENSE](../LICENSE), [COMMERCIAL_LICENSE.md](../COMMERCIAL_LICENSE.md)).
 
 ---
 

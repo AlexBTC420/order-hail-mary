@@ -20,10 +20,12 @@
 
 ## Checklist
 
+- [ ] I accept the contribution terms in `LICENSE` (copyright assignment or exclusive commercializable license to the copyright holder)
 - [ ] I updated `CHANGELOG.md` under **Unreleased** (if this change is material)
 - [ ] This does **not** promise financial returns or promote a token / casino dynamic
 - [ ] Empirical-sounding claims have citations **or** are labeled as thesis / research goal
 - [ ] Scam vs. infrastructure distinction is preserved or sharpened
+- [ ] I am **not** using this PR to obtain free commercial or government operational rights (those require Section B)
 - [ ] Linked related issues (`Fixes #…` / `Discusses #…`) if any
 - [ ] If Markdown canon diverged from the PDF, I noted PDF lag in the PR description
 

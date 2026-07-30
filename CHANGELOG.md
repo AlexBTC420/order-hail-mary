@@ -30,7 +30,7 @@ The format is inspired by [Keep a Changelog](https://keepachangelog.com/).
 - **Document II** — *Order Hail Mary* (`docs/02-order-hail-mary.md` + PDF): threat model, independent failure domains principle, six protocols (SIGNAL, LEDGER, NAME, LIBRARY, MIND, COUNCIL), activation rules, address to nations.
 - Professional README with explicit distinction between **crypto-scam / casino dynamics** and **decentralized infrastructure**.
 - Contribution process, living-document rules, and integrity gates (`CONTRIBUTING.md`).
-- CC BY 4.0 license with non-investment notice.
+- Initial license was CC BY 4.0 (superseded; see Unreleased dual-license change).
 
 ### Status
 

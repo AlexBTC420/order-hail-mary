@@ -1,8 +1,19 @@
 # Contributing to Order Hail Mary
 
-This canon is a **living document**. It is not a finished product dropped from on high. It is a public standard under continuous stress-test: argued with, forked, cited, corrected, and improved by anyone willing to do the work in the open.
+This canon is a **living document**. It is not a finished product dropped from on high. It is a public standard under continuous stress-test: argued with, cited, corrected, and improved in the open—under a **strict dual license** (see [LICENSE](LICENSE)).
 
 If you found a flaw, a missing citation, a protocol that fails independent-failure-domain analysis, or a practice that works in the real world — **you are the update process.**
+
+### License reality check (read before contributing)
+
+| You can do freely (Section A) | You cannot do without Section B (paid) |
+|---|---|
+| Read, cite, discuss non-commercially | Commercial products/training built on the canon |
+| Share **unmodified** copies with attribution | Government / agency **operational** adoption |
+| Submit issues and PRs under the contribution terms below | White-label or rebranded public derivatives |
+
+**Contributing is not a back door to free commercial or government rights.**  
+By submitting a PR or text that gets merged, you **assign copyright** (or grant an exclusive commercializable license) to the copyright holder so the dual-license model stays enforceable. Details are in [LICENSE](LICENSE) → Contributions.
 
 ---
 
@@ -53,7 +64,7 @@ idea / critique
 2. **Every material change is visible.** No silent rewrites of commitments.
 3. **Changelog is mandatory** for substantive edits (see [CHANGELOG.md](CHANGELOG.md)).
 4. **Covenant clauses are hard to change.** Anything that weakens “never promise profit,” transparency of allocations, or the scam/infrastructure distinction requires explicit community discussion and a clear rationale in the PR.
-5. **Forkability is a feature.** If maintainers go wrong, fork. That is the design — not a threat to it.
+5. **Accountability without free-riding.** If maintainers go wrong, you may publish **unmodified** copies with attribution, open issues, and cease relying on this repo. Public **derivative forks** that rebrand or commercially exploit the text require Section B or written permission. Critique is free; capturing the canon is not.
 
 ### Document status labels
 
@@ -71,12 +82,14 @@ Used in the README and changelog:
 
 ## Before You Open Anything
 
-1. Read [README.md](README.md) — especially the **crypto scam vs. decentralized infrastructure** section.
-2. Read the document you want to change:
+1. Read [LICENSE](LICENSE) and [COMMERCIAL_LICENSE.md](COMMERCIAL_LICENSE.md). Confirm you accept the contribution assignment / exclusive license terms.
+2. Read [README.md](README.md) — especially the **crypto scam vs. decentralized infrastructure** section.
+3. Read the document you want to change:
    - [Document I — Decentralized Sovereignty](docs/01-decentralized-sovereignty.md)
    - [Document II — Order Hail Mary](docs/02-order-hail-mary.md)
-3. Search [existing issues](https://github.com/AlexBTC420/order-hail-mary/issues) so you don’t duplicate work.
-4. Prefer **one idea per issue/PR**. Small, reviewable changes beat manifesto rewrites.
+4. Search [existing issues](https://github.com/AlexBTC420/order-hail-mary/issues) so you don’t duplicate work.
+5. Prefer **one idea per issue/PR**. Small, reviewable changes beat manifesto rewrites.
+6. For **paid commercial or government licensing**, do not use a normal contribution PR—open an issue titled `Commercial / Government License Request`.
 
 ---
 
@@ -163,11 +176,13 @@ git push -u origin HEAD
 
 ### PR checklist (maintainers and authors)
 
+- [ ] I accept the contribution terms in [LICENSE](LICENSE) (assignment / exclusive license to copyright holder)
 - [ ] Change is scoped; unrelated drive-bys removed
 - [ ] `CHANGELOG.md` updated under **Unreleased** if the change is material
 - [ ] No profit promises, token launches, or investment framing
 - [ ] Claims that sound empirical either have citations or are labeled as thesis / research goal
 - [ ] Scam vs. infrastructure distinction is preserved or sharpened
+- [ ] Dual-license notices left intact (`LICENSE`, `NOTICE`, README license section)
 - [ ] PDF (`docs/02-order-hail-mary.pdf`) noted as stale if Markdown canon diverged (PDF may lag; Markdown is authoritative)
 - [ ] Linked issues referenced (`Fixes #12`, `Discusses #7`)
 

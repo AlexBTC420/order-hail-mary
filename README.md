@@ -245,11 +245,36 @@ Maintainers review against the gates in [CONTRIBUTING.md](CONTRIBUTING.md). Smal
 
 ---
 
-## License
+## License — Source-Available Dual License (Not Free for Government Ops)
 
-Documents are licensed under **[CC BY 4.0](LICENSE)** for open critique, adaptation, and redistribution **with attribution**.
+**This is intentionally not OSI “open source.”**  
+True open-source licenses (MIT, GPL, CC BY, …) let anyone—including the U.S. Government—use the work free. That would defeat the point of being paid for operational adoption.
 
-Do **not** reframe these texts as investment solicitations, token sales, or guaranteed-return products. That use is outside the spirit of the license notice and will be publicly corrected.
+| Track | Who | Cost | Rights |
+|---|---|---|---|
+| **Section A — Public** | Readers, students, non-commercial critics | Free | Read; share **unmodified** copies with attribution; discuss; open issues/PRs under contribution terms |
+| **Section B — Commercial & Government** | Companies, agencies, contractors, operational programs | **Paid / written agreement** | Operational use, derivatives, training products, policy adoption, white-label, etc. |
+
+**Full legal text:** [`LICENSE`](LICENSE)  
+**How to buy rights (incl. U.S. Government):** [`COMMERCIAL_LICENSE.md`](COMMERCIAL_LICENSE.md)  
+**Short banner:** [`NOTICE`](NOTICE)
+
+### You need Section B if you want to
+
+- Adopt this doctrine in a **government, military, EM, or continuity program**
+- Sell training, software, or consulting built on it
+- Publish modified / rebranded / “official” derivatives
+- Embed substantial text in paid products or RFPs
+
+### You do **not** need Section B only to
+
+- Read the repo and cite it with credit  
+- Share an unmodified link for non-commercial discussion  
+- Critique via issues or contribute under the CLA terms in `LICENSE`
+
+**No token licensing. No public-domain dedication. No implied federal free license.**
+
+Do **not** reframe these texts as investment solicitations, token sales, or guaranteed-return products.
 
 ---
 
