@@ -1,4 +1,4 @@
-# Order Hail Mary
+# The Continuity Bureau - Decentralization Hail Mary
 
 ### Civilizational Continuity Through Decentralized Infrastructure
 
